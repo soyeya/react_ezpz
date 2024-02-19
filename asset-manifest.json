@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/soyeya/ezpz.git/static/css/main.35f5db41.css",
+    "main.js": "/soyeya/ezpz.git/static/js/main.72a03d6d.js",
+    "index.html": "/soyeya/ezpz.git/index.html",
+    "main.35f5db41.css.map": "/soyeya/ezpz.git/static/css/main.35f5db41.css.map",
+    "main.72a03d6d.js.map": "/soyeya/ezpz.git/static/js/main.72a03d6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f5db41.css",
+    "static/js/main.72a03d6d.js"
+  ]
+}
